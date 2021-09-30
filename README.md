@@ -1,4 +1,5 @@
-<img width="300" alt="background" src="https://finedu.fintech.or.kr/FLMSApps/img/int_1_03.png">
+<img width="700" alt="background" src="https://finedu.fintech.or.kr/FLMSApps/img/int_1_03.png">  
+
 # Fintech_with_Datascience
 
 ## Index
