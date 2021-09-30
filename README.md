@@ -1,2 +1,7 @@
 # Fintech_with_Datascience
-핀테크 관련 데이터 강의 공부내용 정리
+<img width="800" alt="background" src="https://finedu.fintech.or.kr/FLMSApps/img/fin_logo_edu.gif">
+
+## Index
+
+### 금융데이터를 이용한 머신러닝
+-----------------------------------
